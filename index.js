@@ -1,4 +1,4 @@
-const Package = require('./lib/Package')
+const Package = require('./lib/package')
 
 module.exports = {
   Package
